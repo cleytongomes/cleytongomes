@@ -2,6 +2,9 @@
 <!-- <a href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a> -->
+<a href="https://br.linkedin.com/in/cleytoncunhagomes">
+  <img align="left" alt="Cleyton Gomes | Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 <a href="https://twitter.com/Cleytongomesx">
   <img align="left" alt="Cleyton Gomes | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -14,11 +17,10 @@
 
 <br/>
 
-<h3>Hi, I’m @cleytongomes</h3><br>
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h3>Hi, I’m Cleyton Gomes</h3><br>
+👀 I am interested in robotics and system automation <br>
+🌱 I’m currently learning Power Bi and React Native <br>
+📫 Email : cleytongomesx@gmail.com  ... <br>
 
 <!---
 cleytongomes/cleytongomes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
