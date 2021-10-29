@@ -19,8 +19,8 @@
 
 <h3>Hi, I’m Cleyton Gomes</h3><br>
 👀 I am interested in robotics and system automation <br>
-🌱 I’m currently learning Power Bi and React Native <br>
-📫 Email : cleytongomesx@gmail.com  ... <br>
+🌱 I’m currently learning Machine Learning and React Native <br>
+📫 Email : cleytongomesx@gmail.com <br>
 
 <!---
 cleytongomes/cleytongomes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
