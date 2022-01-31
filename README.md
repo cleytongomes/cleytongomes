@@ -17,9 +17,9 @@
 
 <br/>
 
-<h3>Hi, I’m Cleyton Gomes</h3><br>
-👀 I am interested in robotics and system automation <br>
-🌱 I’m currently learning Machine Learning and React Native <br>
+<h3>Hi, my name is Cleyton Gomes</h3><br>
+I am interested in robotics, system automation and programmation<br>
+I’m currently learning node and React <br>
 📫 Email : cleytongomesx@gmail.com <br>
 
 <!---
