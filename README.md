@@ -38,8 +38,11 @@ You can click the Preview link to take a look at your changes.
 ![ARDUINO](https://img.shields.io/badge/-Arduino-000000?style=flat&logo=arduino)
 ![MYSQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
 ![MONGO](https://img.shields.io/badge/-Mongo-000000?style=flat&logo=mongodb)
+
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Jquery](https://img.shields.io/badge/-JQuery-000000?style=flat&logo=jquery)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+![DOCKER](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
