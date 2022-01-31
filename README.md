@@ -28,15 +28,18 @@ You can click the Preview link to take a look at your changes.
 <!-- ![Cleyton Gomes Github Stats](https://github-readme-stats.vercel.app/api?username=cleytongomes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
 
 
-##### Languages
+##### Languages and Tools
 
 ![PYTHON](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![REACT](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
+![CODEIGNITER](https://img.shields.io/badge/-CodeIgniter-000000?style=flat&logo=codeigniter)
+![NODE](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js)
+![ARDUINO](https://img.shields.io/badge/-Arduino-000000?style=flat&logo=arduino)
+![MYSQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
+![MONGO](https://img.shields.io/badge/-Mongo-000000?style=flat&logo=mongodb)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Jquery](https://img.shields.io/badge/-JQuery-000000?style=flat&logo=jquery)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-
-![SQL](https://img.shields.io/badge/-Arduino-000000?style=flat&logo=arduino)
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
