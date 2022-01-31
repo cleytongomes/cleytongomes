@@ -40,7 +40,7 @@ You can click the Preview link to take a look at your changes.
 ![MONGO](https://img.shields.io/badge/-Mongo-000000?style=flat&logo=mongodb)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Jquery](https://img.shields.io/badge/-JQuery-000000?style=flat&logo=jquery)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
