@@ -38,6 +38,7 @@ You can click the Preview link to take a look at your changes.
 ![REACTNATIVE](https://img.shields.io/badge/-ReactNative-000000?style=flat&logo=react)
 ![MYSQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
 ![MONGO](https://img.shields.io/badge/-Mongo-000000?style=flat&logo=mongodb)
+![ALEXA](https://img.shields.io/badge/-Alexa-000000?style=flat&logo=amazon)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
