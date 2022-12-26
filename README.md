@@ -5,9 +5,6 @@
 <a href="https://br.linkedin.com/in/cleytoncunhagomes">
   <img align="left" alt="Cleyton Gomes | Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://twitter.com/Cleytongomesx">
-  <img align="left" alt="Cleyton Gomes | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
 <!-- <a href="https://open.spotify.com/user/22fqqb2yrnhql4s7shq7wl2ra">
   <img align="left" alt="Cleyton Gomes | Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a> -->
