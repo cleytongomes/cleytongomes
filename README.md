@@ -1,31 +1,20 @@
-
-<!-- <a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a> -->
 <a href="https://br.linkedin.com/in/cleytoncunhagomes">
   <img align="left" alt="Cleyton Gomes | Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<!-- <a href="https://open.spotify.com/user/22fqqb2yrnhql4s7shq7wl2ra">
-  <img align="left" alt="Cleyton Gomes | Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a> -->
 
 <br/>
 
-<h3>Hi, my name is Cleyton Gomes</h3><br>
-I am interested in robotics, system automation and programmation<br>
-I’m currently learning node and React <br>
+<h2>Sobre mim</h2>
+Olá! Meu nome é Cleyton Gomes e sou formado em Técnico em Informática pelo CEFET-RJ Nova Friburgo e graduado em Tecnologia em Sistemas de Computação pela UFF. 
+Atualmente Trabalho como desenvolvedor de sistemas na 3F - Fechaduras e Cadeados. <br><br>
+
+Fique à vontade para entrar em contato comigo se quiser saber mais sobre mim ou meus projetos. Obrigado por visitar o meu perfil! <br>
 📫 Email : cleytongomesx@gmail.com <br>
+💻 Portifólio : [Acesse o link](https://cleytongomes.github.io/portifolio) <br><br>
 
-<!---
-cleytongomes/cleytongomes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Cleyton Gomes Github Stats](https://github-readme-stats.vercel.app/api?username=cleytongomes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-
-<!-- ![Cleyton Gomes Github Stats](https://github-readme-stats.vercel.app/api?username=cleytongomes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
-
-
-##### Languages and Tools
+##### Linguagens e Ferramentas
 
 ![PYTHON](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
