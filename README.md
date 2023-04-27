@@ -1,6 +1,10 @@
-<a href="https://br.linkedin.com/in/cleytoncunhagomes">
-  <img align="left" alt="Cleyton Gomes | Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://medium.com/@cleytongomesx">
+  <img align="left" alt="Cleyton Gomes | Medium" height="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" />
 </a>
+<a href="https://br.linkedin.com/in/cleytoncunhagomes">
+  <img align="left" alt="Cleyton Gomes | Linkedin" height="26px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
 
 <br/>
 
