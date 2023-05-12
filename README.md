@@ -16,7 +16,9 @@ Fique à vontade para entrar em contato comigo se quiser saber mais sobre mim ou
 📫 Email : cleytongomesx@gmail.com <br>
 💻 Portifólio : [Acesse o link](https://cleytongomes.github.io/portifolio) <br><br>
 
-![Cleyton Gomes Github Stats](https://github-readme-stats.vercel.app/api?username=cleytongomes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<!-- ![Cleyton Gomes Github Stats](https://github-readme-stats.vercel.app/api?username=cleytongomes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
+![Cleyton Gomes GitHub stats](https://github-readme-stats.vercel.app/api?username=cleytongomes&hide=contribs,prs,stars,issues&show_icons=true&theme=dark)
+
 
 ##### Linguagens e Ferramentas
 
